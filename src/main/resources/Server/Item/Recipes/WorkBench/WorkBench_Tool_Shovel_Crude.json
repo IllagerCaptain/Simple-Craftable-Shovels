@@ -1,0 +1,30 @@
+{
+  "Input": [
+    {
+      "ResourceTypeId": "Rubble",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 2
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Tool_Shovel_Crude",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Id": "Workbench",
+      "Type": "Crafting",
+      "Categories": [
+        "Workbench_Tools"
+      ]
+    }
+  ],
+  "TimeSeconds": 1
+}
