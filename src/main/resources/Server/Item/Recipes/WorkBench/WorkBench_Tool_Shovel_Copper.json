@@ -1,0 +1,30 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Bar_Copper",
+      "Quantity": 4
+    },
+    {
+      "ResourceTypeId": "Wood_Trunk",
+      "Quantity": 3
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 3
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Tool_Shovel_Copper",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Id": "Workbench",
+      "Type": "Crafting",
+      "Categories": [
+        "Workbench_Tools"
+      ]
+    }
+  ],
+  "TimeSeconds": 3
+}

@@ -1,0 +1,31 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Bar_Thorium",
+      "Quantity": 8
+    },
+    {
+      "ItemId": "Ingredient_Leather_Medium",
+      "Quantity": 3
+    },
+    {
+      "ItemId": "Ingredient_Fabric_Scrap_Linen",
+      "Quantity": 2
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Tool_Shovel_Thorium",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Id": "Workbench",
+      "Type": "Crafting",
+      "Categories": [
+        "Workbench_Tools"
+      ],
+      "RequiredTierLevel": 2
+    }
+  ],
+  "TimeSeconds": 4
+}
