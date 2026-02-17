@@ -1,13 +1,14 @@
 {
     "Group": "IllagerCaptain",
     "Name": "Simple Craftable Shovels",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Adds recipes for unused shovel variants.",
     "Authors": [
         {
             "Name": "IllagerCaptain"
         }
     ],
+    "ServerVersion": "2026.02.17-255364b8e",
     "Dependencies": {
         
     },
